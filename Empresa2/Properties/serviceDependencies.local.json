@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "DefaultConnection"
+    },
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "DataMainContext"
+    },
+    "mssql3": {
+      "type": "mssql.local",
+      "connectionId": "EmpresaContext"
+    },
+    "mssql4": {
+      "type": "mssql.local",
+      "connectionId": "MotorContext"
+    },
+    "mssql5": {
+      "type": "mssql.local",
+      "connectionId": "VehiculoContext"
+    }
+  }
+}
